@@ -1,6 +1,9 @@
-# All the queries locations are listed in our PHP file, example, we added comments above the insert query #
+# UBC CPSC304 Intorduction to Relational Databases Project #
+## by Linda Ma, Irem Yucel and Michael Ge
 
-# Team Canada in the Olympics
+### All the queries locations are listed in our PHP file, example, we added comments above the insert query #
+
+### Team Canada in the Olympics
 
 This repository contains the work of Michael Ge, Linda Ma and Irem Yucel for the CPSC304 - Introduction to Relational Databases Project. We are modelling the Team Canada's Olympic history.
 
